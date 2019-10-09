@@ -1,3 +1,5 @@
 t=int(input())
 k= (map(int,input().split()))
 print(t)
+b=int(input())
+print(b)
